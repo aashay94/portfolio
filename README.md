@@ -1,6 +1,6 @@
 # PORTFOLIO-APP 
 
-This is the implementaion code for the blog I have written 
+This is the implementaion code for the portfolio which I have built using React.js
 - To run this project follow these steps , 
   - clone the repo using `git clone`
   - navigate to folder `portfolio-app`
